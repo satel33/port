@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "jurijs99",
   name: "Jurijs Haricevs",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.jpg",
+  avatarUrl: "/avatar.png",
   email: "jurijs.haricevs@gmail.com",
   phone: "+371 27188470",
   address: "Riga, Latvija",

@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Jurijs Haricevs - Developer, Writer, Creator and YouTuber",
     description: `I've been developing websites for 6 years straight. Get in touch with me to know more.`,
-    image: "/avatar.jpg",
+    image: "/avatar.png",
     type: "website",
     ...customMeta,
   };
