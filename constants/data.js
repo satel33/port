@@ -18,11 +18,6 @@ const userData = {
       imgUrl: "/placeholdertech.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
       title: "CovidRescue",
       link: "https://covidrescue.co.in",
       imgUrl: "/covidrescue.png",
@@ -104,12 +99,10 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1gR3S-9eSimnV3HzX19vRyo2UhU_tP3gL/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    linkedin: "linkedin.com/in/jurijs-hari%C4%8Devs-4a4a0a239",
+    github: "https://github.com/jurijs99",
     facebook: "https://facebook.com/",
   },
 };
