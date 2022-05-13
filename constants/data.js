@@ -97,6 +97,9 @@ const userData = {
     linkedin: "linkedin.com/in/jurijs-hari%C4%8Devs-4a4a0a239",
     github: "https://github.com/jurijs99",
     facebook: "https://facebook.com/",
+    stackoverflow:
+      "https://stackoverflow.com/users/19103675/jurijs-hari%c4%8devs",
+    devto: "https://dev.to/jurijs99",
   },
 };
 
